@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "blakesanie/React-Bubble-UI",
   "main": "dist/index.js",
-  "types": "src/types/index.d.ts",
+  "types": "types/index.d.ts",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
