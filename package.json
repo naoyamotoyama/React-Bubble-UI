@@ -11,6 +11,7 @@
   "engines": {
     "node": ">=10"
   },
+  "types": "types/index.d.ts",
   "keywords": [
     "react",
     "component",
@@ -36,7 +37,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^17.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
